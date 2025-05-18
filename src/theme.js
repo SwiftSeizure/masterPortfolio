@@ -195,4 +195,18 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
-export const chosenTheme = blueTheme;
+export const materialHaidanTheme = {
+  body: "#EFF5EE",
+  text: "#000000",
+  expTxtColor: "#000000",
+  highlight: "#899499",
+  dark: "#000000",
+  secondaryText: "#899499",
+  imageHighlight: "#899499",
+  compImgHighlight: "#899499",
+  jacketColor: "#000000",
+  headerColor: "#899499",
+  splashBg: "#000000",
+};
+
+export const chosenTheme = materialHaidanTheme;
