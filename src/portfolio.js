@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Haidan's Portfolio",
   description:
-    "A curious, self motivated, and knowledgable programmer who thrives on a team.",
+    "A curious, self motivated, and knowledgeable programmer who thrives on a team.",
   og: {
     title: "Haidan Nelson Portfolio",
     type: "website",
@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "HaidanNelson",
   nickname: "",
   subTitle:
-    "A curious, self motivated, and knowledgable programmer who thrives on a team.",
+    "A curious, self motivated, and knowledgeable programmer who thrives on a team.",
   resumeLink:
-    "https://docs.google.com/document/d/1N771rBUOJ5pxaEFq5MD7_HigQqGFOsVN/edit?usp=sharing&ouid=116912123295979507048&rtpof=true&sd=true",
+    "https://drive.google.com/file/d/1mPbltzk0iNQjdMqTsPsyZ69eID-Sz7UO/view?usp=sharing",
   portfolio_repository: "https://github.com/SwiftSeizure",
   githubProfile: "https://github.com/SwiftSeizure",
 };
@@ -66,8 +66,8 @@ const skills = {
       title: "Database Solutions",
       fileName: "DataScienceImg",
       skills: [
-        "Designing effeceint and easily queriable databases",
-        "Creating and implementing querires to extract data from databases",
+        "Designing efficient and easily queriable databases",
+        "Creating and implementing queries to extract data from databases",
         "Maintain and improve existing database solutions",
       ],
       softwareSkills: [
@@ -99,7 +99,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "Provide backend end support for web applications and design effecient APIs",
+        "Provide backend end support for web applications and design efficient APIs",
         "Build striking frontends using ReactJS",
         "Design optimal database solutions to store and retrieve data",
       ],
@@ -161,7 +161,7 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "Provide effeciently priced solutions to cloud service needs",
+        "Provide efficiently priced solutions to cloud service needs",
         "Design and implement cloud based solutions to meet business needs",
       ],
       softwareSkills: [
@@ -209,7 +209,7 @@ const degrees = {
       descriptions: [
         " I am currently enrolled in the University of Utah for a BA in Computer Science.",
         " My current areas of focus are in AI and full stack development.",
-        " I am the founder of a capstone project that will utulize AI for education by providing students an easier option to cheating.",
+        " I am the founder of a capstone project that will utilize AI for education by providing students an easier option to cheating.",
       ],
       website_link: "https://www.utah.edu/",
     },
@@ -225,7 +225,7 @@ const experience = {
   title: "Experience",
   subtitle: "",
   description:
-    "Through my experience I have developed excellent customer service skills and the ability to communicate effectivley. I take personal responsiblity for my projects and I aspire to be the best what I do.",
+    "Through my experience I have developed excellent customer service skills and the ability to communicate effectively. I take personal responsibility for my projects and I aspire to be the best what I do.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -345,7 +345,7 @@ const contactPageData = {
   blogSection: {
     title: "About Me",
     subtitle:
-      "I am a student that loves to hike, camp, ski, and generally be in the mountains. I am obssessed with music and hearing new music. I enjoy learning new things and interesting conversations, and I hope to find a team of like minded people to work with. ",
+      "I am a student that loves to hike, camp, ski, and generally be in the mountains. I am obsessed with music and hearing new music. I enjoy learning new things and interesting conversations, and I hope to find a team of like minded people to work with. ",
   },
   addressSection: {},
   phoneSection: {
