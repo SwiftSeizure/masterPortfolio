@@ -34,6 +34,14 @@ class Contact extends Component {
                 >
                   {ContactData["title"]}
                 </h1>
+                <div style={{ marginBottom: "1rem" }}>
+                  <a
+                    href="mailto:haidandnelson@gmail.com"
+                    style={{ display: "block", textAlign: "center" }}
+                  >
+                    (haidandnelson@gmail.com)
+                  </a>
+                </div>
                 <p
                   className="contact-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}

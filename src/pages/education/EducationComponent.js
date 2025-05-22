@@ -33,12 +33,12 @@ class Education extends Component {
                 </h1>
                 <p style={{ color: theme.text }}>
                   I am an undergraduate at the University of Utah, where I will
-                  be graduating next semester. I have developed a wide set of
-                  skills in software devleopment, and the ability to quickly
-                  adapt to and overcome new situations. My capstone project,
-                  TAi, aims to provide students with AI teaching assistants that
-                  are already informed about course material and designed to
-                  help not cheat.
+                  be receiving my degree next semester. I have developed a wide
+                  set of skills in software devleopment, and the ability to
+                  quickly adapt to and overcome new situations. My capstone
+                  project, TAi, aims to provide students with AI teaching
+                  assistants that are already informed about course material and
+                  designed to help not cheat.
                 </p>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>

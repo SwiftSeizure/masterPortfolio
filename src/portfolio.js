@@ -262,7 +262,7 @@ const experience = {
           duration: "March 2020 - August 2022",
           location: "Murray, Utah, USA",
           description:
-            "Developed discipline and time management by managing self-employment responsibilities during COVID-19.",
+            "Developed discipline and time management by handling self-employment responsibilities during COVID-19.",
         },
         {
           title: "Sales Associate",
@@ -340,12 +340,13 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
-    description: "I will respond within 24 hours.",
+    description:
+      "I am a student that loves to hike, camp, ski, and generally be in the mountains. I am almost always listening to music, and I look forward to collaborating with a team to create something awesome.",
   },
   blogSection: {
     title: "About Me",
     subtitle:
-      "I am a student that loves to hike, camp, ski, and generally be in the mountains. I am obsessed with music and hearing new music. I enjoy learning new things and interesting conversations, and I hope to find a team of like minded people to work with. ",
+      "I am a student that loves to hike, camp, ski, and generally be in the mountains. I am almost always listening to music, and I look forward to collaborating with a team to create something awesome.",
   },
   addressSection: {},
   phoneSection: {
