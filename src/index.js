@@ -12,6 +12,14 @@ import "./assets/font-awesome/css/all.css";
 
 const engine = new Styletron();
 
+if (
+  window.location.protocol !== "https:" &&
+  window.location.hostname !== "localhost"
+) {
+  window.location.href =
+    "https:" + window.location.href.substring(window.location.protocol.length);
+}
+
 ReactDOM.render(
   <StyletronProvider value={engine}>
     <BaseProvider theme={LightTheme}>
