@@ -345,8 +345,7 @@ const contactPageData = {
   },
   blogSection: {
     title: "About Me",
-    subtitle:
-      "I am a student that loves to hike, camp, ski, and generally be in the mountains. I am almost always listening to music, and I look forward to collaborating with a team to create something awesome.",
+    subtitle: "",
   },
   addressSection: {},
   phoneSection: {
