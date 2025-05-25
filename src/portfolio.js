@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A curious, self motivated, and knowledgeable programmer who thrives on a team.",
   resumeLink:
-    "https://drive.google.com/file/d/1mPbltzk0iNQjdMqTsPsyZ69eID-Sz7UO/view?usp=sharing",
+    "https://docs.google.com/document/d/1TVfKbu6m2d_WfexqS8wkq-n9Mv7tYh2LLLZoLQWLX5U/edit?usp=sharing",
   portfolio_repository: "https://github.com/SwiftSeizure",
   githubProfile: "https://github.com/SwiftSeizure",
 };
@@ -66,7 +66,7 @@ const skills = {
       title: "Database Solutions",
       fileName: "DataScienceImg",
       skills: [
-        "Designing efficient and easily queriable databases",
+        "Designing efficient and easily queryable databases",
         "Creating and implementing queries to extract data from databases",
         "Maintain and improve existing database solutions",
       ],
