@@ -11,7 +11,6 @@ import * as serviceWorker from "./serviceWorker";
 import "./assets/font-awesome/css/all.css";
 
 const engine = new Styletron();
-
 if (
   window.location.protocol !== "https:" &&
   window.location.hostname !== "localhost"

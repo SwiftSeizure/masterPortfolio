@@ -99,7 +99,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "Provide backend end support for web applications and design efficient APIs",
+        "Provide backend support for web applications and design efficient APIs",
         "Build striking frontends using ReactJS",
         "Design optimal database solutions to store and retrieve data",
       ],
