@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Haidan's Portfolio",
   description:
-    "A curious, self motivated, and knowledgeable programmer who thrives on a team.",
+    "A self motivated, and knowledgeable programmer who thrives on a team.",
   og: {
     title: "Haidan Nelson Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "HaidanNelson",
   nickname: "",
   subTitle:
-    "A curious, self motivated, and knowledgeable programmer who thrives on a team.",
+    "A self motivated, and knowledgeable programmer who thrives on a team.",
   resumeLink:
     "https://docs.google.com/document/d/1TVfKbu6m2d_WfexqS8wkq-n9Mv7tYh2LLLZoLQWLX5U/edit?usp=sharing",
   portfolio_repository: "https://github.com/SwiftSeizure",
@@ -66,8 +66,8 @@ const skills = {
       title: "Database Solutions",
       fileName: "DataScienceImg",
       skills: [
-        "Designing efficient and easily queryable databases",
-        "Creating and implementing queries to extract data from databases",
+        "Design efficient and easily queryable databases",
+        "Create and implement queries to extract data from databases",
         "Maintain and improve existing database solutions",
       ],
       softwareSkills: [
@@ -160,7 +160,7 @@ const skills = {
       title: "Cloud",
       fileName: "CloudInfraImg",
       skills: [
-        "Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "Hoste and maintaining websites on virtual machine instances along with integration of databases",
         "Provide efficiently priced solutions to cloud service needs",
         "Design and implement cloud based solutions to meet business needs",
       ],
@@ -205,11 +205,11 @@ const degrees = {
       subtitle: "BA in Computer Science",
       logo_path: "uLogo.png",
       alt_name: "University of Utah",
-      duration: "2020 - Present",
+      duration: "2020 - 2025",
       descriptions: [
-        " I am currently enrolled in the University of Utah for a BA in Computer Science.",
-        " My current areas of focus are in AI and full stack development.",
-        " I am the founder of a capstone project that will utilize AI for education by providing students an easier option to cheating.",
+        " Through my time at the University of Utah, I gained a strong foundation in computer science. Beyond this however I learned how to learn.",
+        " I am confident not becuase I know all there is to know, but becuase I can learn to solve any problem that I encounter.",
+        " AI is the future, a tool that is going to revolutionize industries everywhere. I was among the early adopters of AI, and I intend to be among the early innovators of these spaces.",
       ],
       website_link: "https://www.utah.edu/",
     },
@@ -341,7 +341,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am a student that loves to hike, camp, ski, and generally be in the mountains. I am almost always listening to music, and I look forward to collaborating with a team to create something awesome.",
+      "I am a college graduate that loves to hike, camp, ski, and generally be in the mountains. I am almost always listening to music, and I look forward to collaborating with a team to create something awesome.",
   },
   blogSection: {
     title: "",
